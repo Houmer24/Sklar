@@ -15,6 +15,11 @@ Your Name: <input type="text" name="user"/>
 </br>
 <button type="submit">Say Hello</button>
 </form>
-_HTML_;//Обязательно с начала строки!!!
+_HTML_;
 }
+//Обязательно с начала строки!!!
+
+print "</br>";
+print"The population of US is about: ";
+print number_format(320853904);
 ?>
