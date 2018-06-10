@@ -6,6 +6,7 @@
 </head>
 <body>
 <?php print "PHP enabled"; ?>
-<p>more data</p>
+
+<p>finish and more</p>
 </body>
 </html>
